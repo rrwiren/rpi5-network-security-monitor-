@@ -1,4 +1,4 @@
-# Anothe RPI5 project with AI
+# Another RPI5 project with AI
 Raspberry Pi 5 16GB with AI hat for network security monitor 
 Goal: To create a comprehensive resource for setting up, configuring, tuning, and potentially applying AI/ML to a home network security monitoring system based on a Raspberry Pi 5, Arkime, Suricata, and an AI accelerator.
 
