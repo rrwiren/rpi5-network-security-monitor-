@@ -13,6 +13,7 @@ This document outlines a proposed structure for your GitHub repository, designed
 
 **Proposed Directory Structure:**
 
+```text
 rpi5-network-security-monitor/
 ├── .github/             # Optional: Issue templates, workflows (e.g., markdown lint)
 ├── .gitignore           # Standard gitignore for Python, logs, data, credentials
@@ -38,12 +39,12 @@ rpi5-network-security-monitor/
 │   ├── install_deps.sh
 │   └── run_anomaly_detector.py # Example deployment script
 ├── src/                 # Optional: If creating reusable Python modules/classes
-│   └── init.py
+│   └── __init__.py
 ├── DIARY.md             # Chronological log of progress, challenges, decisions
 ├── LICENSE              # e.g., MIT License
 └── README.md            # Project overview, goals, stack, structure, status
 
----
+```
 
 **Key File Content Outlines:**
 
